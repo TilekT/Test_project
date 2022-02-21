@@ -1,0 +1,3 @@
+test info
+
+git project to create a new repository on the command line
